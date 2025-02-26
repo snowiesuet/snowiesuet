@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I am Snowie. I am a frontend developer. I love painting the internet with css.
 
-- 🔭 I’m currently working on [a python bot](https://github.com/snowiesuet/DiscordVolNode).
+- 🔭 I’m currently working on [a python bot](https://github.com/snowiesuet/PepeBotPy).
 - :computer: I’m currently working as a Frontend Developer.
 - 🌱 I’m currently learning how to build bots with Python.
 - 👯 I’m looking to collaborate on any exciting projects that come my way.
